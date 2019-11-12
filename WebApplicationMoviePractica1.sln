@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationMoviePractica1", "WebApplicationMoviePractica1\WebApplicationMoviePractica1.csproj", "{B807820F-BD59-46BE-9A91-B20D690582D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbConection", "DbConection\DbConection.csproj", "{35137990-27BC-4561-9041-26F7859678A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B807820F-BD59-46BE-9A91-B20D690582D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B807820F-BD59-46BE-9A91-B20D690582D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B807820F-BD59-46BE-9A91-B20D690582D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B807820F-BD59-46BE-9A91-B20D690582D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35137990-27BC-4561-9041-26F7859678A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35137990-27BC-4561-9041-26F7859678A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35137990-27BC-4561-9041-26F7859678A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35137990-27BC-4561-9041-26F7859678A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7F933D2-A025-4C61-ACEF-BC198064DCA0}
+	EndGlobalSection
+EndGlobal
